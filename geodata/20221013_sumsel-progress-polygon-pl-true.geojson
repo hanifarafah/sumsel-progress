@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "20221013_sumsel-progress-polygon-pl-true",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 4055, "REGION": "SUMATERA", "NOMOR_PETA": "1012-211", "SKALA_PETA": "1:25.000", "Pemutakhir": "TSANIYA NURAFIFAH", "TRANSPORT": "TRUE", "PERAIRAN": null, "BANGUNAN": null, "PL": "TRUE" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 104.12499999975023, -4.0 ], [ 104.0, -4.0 ], [ 104.0, -3.87499999935045 ], [ 104.12499999975023, -3.87499999935045 ], [ 104.12499999975023, -4.0 ] ] ] ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4057, "REGION": "SUMATERA", "NOMOR_PETA": "1012-213", "SKALA_PETA": "1:25.000", "Pemutakhir": "TSANIYA NURAFIFAH", "TRANSPORT": "TRUE", "PERAIRAN": null, "BANGUNAN": null, "PL": "TRUE" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 104.12499999975023, -3.87499999935045 ], [ 104.0, -3.87499999935045 ], [ 104.0, -3.749999999600277 ], [ 104.12499999975023, -3.749999999600277 ], [ 104.12499999975023, -3.87499999935045 ] ] ] ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4063, "REGION": "SUMATERA", "NOMOR_PETA": "1012-231", "SKALA_PETA": "1:25.000", "Pemutakhir": "TSANIYA NURAFIFAH", "TRANSPORT": "TRUE", "PERAIRAN": null, "BANGUNAN": null, "PL": "TRUE" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 104.12499999975023, -3.749999999600277 ], [ 104.0, -3.749999999600277 ], [ 104.0, -3.624999999850047 ], [ 104.12499999975023, -3.624999999850047 ], [ 104.12499999975023, -3.749999999600277 ] ] ] ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4065, "REGION": "SUMATERA", "NOMOR_PETA": "1012-233", "SKALA_PETA": "1:25.000", "Pemutakhir": "TSANIYA NURAFIFAH", "TRANSPORT": "TRUE", "PERAIRAN": null, "BANGUNAN": null, "PL": "TRUE" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 104.12499999975023, -3.624999999850047 ], [ 104.0, -3.624999999850047 ], [ 104.0, -3.499999999200554 ], [ 104.12499999975023, -3.499999999200554 ], [ 104.12499999975023, -3.624999999850047 ] ] ] ] } }
+]
+}
